@@ -1,5 +1,5 @@
 [versions]
-scare = "2.0.15"
+scare = "2.0.17"
 
 [libraries]
 scare = { module = "org.slf4j:slf4j-api", version.ref = "scare" }
